@@ -17,6 +17,7 @@ index.html          Home
 about/index.html    About
 software/index.html Software
 contact/index.html  Contact
+legal/index.html    Company details (KVK)
 privacy/index.html  Privacy policy
 terms/index.html    Terms of use
 assets/css/site.css Styles

@@ -110,6 +110,16 @@ a:hover { color: #000; }
 
 .g0-footer-links a:hover { color: var(--g0-text); text-decoration: underline; }
 
+.g0-footer-legal {
+  max-width: var(--g0-max);
+  margin: 16px auto 0;
+  padding: 0 24px;
+  font-size: 0.75rem;
+  color: var(--g0-subtle);
+  text-align: center;
+  line-height: 1.5;
+}
+
 body { min-height: 100vh; display: flex; flex-direction: column; }
 main { flex: 1; }
 
